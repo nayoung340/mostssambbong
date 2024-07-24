@@ -4,8 +4,8 @@ import pandas as pd
 # 샘플 데이터프레임 생성
 data = {
     '아이돌': ['BTS', 'BLACKPINK', 'SEVENTEEN', 'TWICE', 'IVE'],
-    '앨범': ['Map of the Soul: 7', 'THE ALBUM', 'Face the Sun', 'Eyes Wide Open', 'ELEVEN'],
-    '판매량': [5000000, 1200000, 1300000, 800000, 500000]
+    '앨범': ['BE', 'BORN PINK', 'FML', 'With YOU-th', 'IVE SWITCH'],
+    '판매량': [3200000, 2500000, 4500000, 1060000, 1320000]
 }
 df = pd.DataFrame(data)
 
